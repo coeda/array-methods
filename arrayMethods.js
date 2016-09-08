@@ -23,3 +23,5 @@ nameArray.push('Casey', 'Oeda');
 genericNumberArray.push( 6, 7, 8, 9, 10);
 
 var popResult = colors.pop();
+
+scrambledWords.reverse();
