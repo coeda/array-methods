@@ -28,4 +28,6 @@ scrambledWords.reverse();
 
 phoneNumber.reverse();
 
-orderQueue.shift();
+var nextOrder = orderQueue.shift();
+
+mixedNums.sort();
