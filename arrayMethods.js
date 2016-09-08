@@ -22,4 +22,4 @@ nameArray.push('Casey', 'Oeda');
 
 genericNumberArray.push( 6, 7, 8, 9, 10);
 
-colors.pop();
+var popResult = colors.pop();
