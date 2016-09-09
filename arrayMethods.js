@@ -43,3 +43,5 @@ upToTen.splice(2,2, 3, 4, 5, 6, 7, 8, 9, 10);
 brownOnly.splice(1,brownOnly.length,'brown', 'brown', 'brown', 'brown');
 
 var orderedValuesNewLength = orderedValues.unshift(1,2,3);
+
+var randomThingsArray =  genericNumberArray.concat(colors);
